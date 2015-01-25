@@ -16,4 +16,4 @@ tidyData <- run_analysis()
 Documentation
 -------------
 
-Read [Codebook](Codebook.md) to find out more about `run_analysis`
+Read [CodeBook](CodeBook.md) to find out more about `run_analysis`
